@@ -3,3 +3,7 @@
 *.png
 *.pdf
 *.pyc
+*.grb2
+*.idx
+*.txt
+*.csv
